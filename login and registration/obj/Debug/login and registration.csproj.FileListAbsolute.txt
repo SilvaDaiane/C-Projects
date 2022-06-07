@@ -1,0 +1,17 @@
+C:\Users\daian\source\repos\login and registration\obj\Debug\login and registration.csproj.AssemblyReference.cache
+C:\Users\daian\source\repos\login and registration\obj\Debug\login and registration.csproj.SuggestedBindingRedirects.cache
+C:\Users\daian\source\repos\login and registration\obj\Debug\view.FormRegister.resources
+C:\Users\daian\source\repos\login and registration\obj\Debug\login_and_registration.Properties.Resources.resources
+C:\Users\daian\source\repos\login and registration\obj\Debug\login and registration.csproj.GenerateResource.cache
+C:\Users\daian\source\repos\login and registration\obj\Debug\login and registration.csproj.CoreCompileInputs.cache
+C:\Users\daian\source\repos\login and registration\bin\Debug\login and registration.exe.config
+C:\Users\daian\source\repos\login and registration\bin\Debug\login and registration.exe
+C:\Users\daian\source\repos\login and registration\bin\Debug\login and registration.pdb
+C:\Users\daian\source\repos\login and registration\obj\Debug\view.FrmLogin.resources
+C:\Users\daian\source\repos\login and registration\obj\Debug\login and registration.exe
+C:\Users\daian\source\repos\login and registration\obj\Debug\login and registration.pdb
+C:\Users\daian\source\repos\login and registration\obj\Debug\view.dashboard.resources
+C:\Users\daian\source\repos\login and registration\bin\Debug\CircularProgressBar.dll
+C:\Users\daian\source\repos\login and registration\bin\Debug\WinFormAnimation.dll
+C:\Users\daian\source\repos\login and registration\bin\Debug\CircularProgressBar.xml
+C:\Users\daian\source\repos\login and registration\obj\Debug\login and registration.csproj.CopyComplete
